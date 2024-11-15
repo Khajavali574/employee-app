@@ -1,6 +1,15 @@
 # employee-app
 
+AWS Deployed App end Points
+---------------------------
+Swagger url : http://a6950a5555dff42339187ec5ae9da71f-156338842.us-east-1.elb.amazonaws.com/swagger-ui/index.html
 
+Post: http://a6950a5555dff42339187ec5ae9da71f-156338842.us-east-1.elb.amazonaws.com/employee/create
+GET:  http://a6950a5555dff42339187ec5ae9da71f-156338842.us-east-1.elb.amazonaws.com/employee/department/HR
+GET:  http://a6950a5555dff42339187ec5ae9da71f-156338842.us-east-1.elb.amazonaws.com/employee/empname/K
+GET:  http://a6950a5555dff42339187ec5ae9da71f-156338842.us-east-1.elb.amazonaws.com/employee/sort/deptAndEmpId
+GET:  http://a6950a5555dff42339187ec5ae9da71f-156338842.us-east-1.elb.amazonaws.com/employee/HR/sort/empName
+GET:  http://a6950a5555dff42339187ec5ae9da71f-156338842.us-east-1.elb.amazonaws.com/employee/department/empid/1
 
 ## Getting started
 
